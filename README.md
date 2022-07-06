@@ -12,7 +12,7 @@
 Link untuk **[Laporan](https://docs.google.com/document/d/1uKHNSj2aWLw5x9IgafiPWevWDWmo7fb0q7SzlTD0UDE/edit?usp=sharing)**
 
 ### Video Demo
-Link untuk **[Video Demo]()**
+Link untuk **[Video Demo](https://youtu.be/PqxfiJJ3j8U)**
 
-###Hasil
-![image](https://user-images.githubusercontent.com/77277696/177600278-50a2fb69-bc92-4ea6-bbc8-a2519f33e744.png)
+### Preview Hasil
+<img src="" width=400>
