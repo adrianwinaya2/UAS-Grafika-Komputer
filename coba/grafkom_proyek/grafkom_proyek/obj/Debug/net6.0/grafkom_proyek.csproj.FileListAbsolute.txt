@@ -1,0 +1,144 @@
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.csproj.AssemblyReference.cache
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.AssemblyInfoInputs.cache
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.AssemblyInfo.cs
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.csproj.CoreCompileInputs.cache
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.exe
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.deps.json
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.runtimeconfig.json
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.pdb
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Compute.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Core.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Graphics.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Input.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Mathematics.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.OpenAL.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\LearnOpenTK.Common.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.csproj.CopyComplete
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\refint\grafkom_proyek.dll
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.pdb
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.genruntimeconfig.cache
+D:\SEM4 - GRAFKOM\proyek\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\ref\grafkom_proyek.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.csproj.AssemblyReference.cache
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.AssemblyInfoInputs.cache
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.AssemblyInfo.cs
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.csproj.CoreCompileInputs.cache
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\refint\grafkom_proyek.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.pdb
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.exe
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.deps.json
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.runtimeconfig.json
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.pdb
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Compute.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Core.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Graphics.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Input.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Mathematics.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.OpenAL.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\LearnOpenTK.Common.dll
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.csproj.CopyComplete
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.genruntimeconfig.cache
+D:\SEM4 - GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\ref\grafkom_proyek.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\refint\grafkom_proyek.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.pdb
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.csproj.AssemblyReference.cache
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.AssemblyInfoInputs.cache
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.AssemblyInfo.cs
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.csproj.CoreCompileInputs.cache
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.exe
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.deps.json
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.runtimeconfig.json
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.pdb
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Compute.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Core.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Graphics.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Input.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Mathematics.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.OpenAL.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\LearnOpenTK.Common.dll
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.csproj.CopyComplete
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.genruntimeconfig.cache
+E:\Uni\GRAFKOM\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\ref\grafkom_proyek.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.AssemblyInfo.cs
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\ref\grafkom_proyek.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.pdb
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.exe
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.deps.json
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.runtimeconfig.json
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\ref\grafkom_proyek.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\grafkom_proyek.pdb
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\LearnOpenTK.Common.dll
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.csproj.CopyComplete
+C:\Users\PERSONAL\Downloads\uas\coba\grafkom_proyek\grafkom_proyek\obj\Debug\net6.0\grafkom_proyek.genruntimeconfig.cache
