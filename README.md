@@ -15,4 +15,4 @@ Link untuk **[Laporan](https://docs.google.com/document/d/1uKHNSj2aWLw5x9IgafiPW
 Link untuk **[Video Demo](https://youtu.be/PqxfiJJ3j8U)**
 
 ### Preview Hasil
-<img src="" width=400>
+<img src="https://user-images.githubusercontent.com/83347252/177605379-8424edff-c5a5-40ed-9def-f3fcbb446255.png" width=600>
